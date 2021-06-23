@@ -1,2 +1,3 @@
 ﻿  Game.cpp
+C:\Users\olteo\OneDrive\Dokumenty\Studia\semestr6\SGD\SGD_Projekt\SGD\Rammification\ECS\TransformComponent.h(38,17): warning C4244: "inicjowanie": konwersja z "double" do "float", możliwa utrata danych
   Rammification.vcxproj -> C:\Users\olteo\OneDrive\Dokumenty\Studia\semestr6\SGD\SGD_Projekt\SGD\Rammification\Debug\Rammification.exe
